@@ -1,1 +1,1 @@
-Online sales data analysis using SQL Server Management Studio, separating the data into multiple tables in order to define insights.
+Perform online sales data analysis using SQL by segmenting data into multiple tables to derive meaningful insights.
