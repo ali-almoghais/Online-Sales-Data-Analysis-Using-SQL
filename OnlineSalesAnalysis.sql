@@ -91,15 +91,15 @@ order by TotalSpent desc;
 /*
 output:
 CustomerID		Country			TotalSpent
-53125			United States	18398.0013
-52408			United States	13515.9356
-44086			United States	13493.2563
-91749			United States	13163.0943
+53125			United States		18398.0013
+52408			United States		13515.9356
+44086			United States		13493.2563
+91749			United States		13163.0943
 18887			Sweden			12569.7245
-82365			United States	12310.6986
+82365			United States		12310.6986
 90318			Sweden			11954.7824
-41410			Portugal		11370.8484
-25691			Portugal		11267.9064
+41410			Portugal			11370.8484
+25691			Portugal			11267.9064
 15401			Spain			11136.0253
 */
 
